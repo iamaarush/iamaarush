@@ -1,4 +1,4 @@
-- 👋 Hi, I’m aarush
+- 👋 Hi, I’m aarush narayan
 - 👀 I’m interested in data science field
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data releated work 
